@@ -59,11 +59,11 @@ Each entry is either:
         recipe.  See: https://github.com/milkypostman/melpa#recipe-format")
 
 
-(defun mk-org-ql/init-org-super-agenda ()
+(defun mk-org-super-agenda/init-org-super-agenda ()
   ;; whatever init necessary
   )
 
-(defun mk-org-ql/post-init-org-super-agenda ()
+(defun mk-org-super-agenda/post-init-org-super-agenda ()
   ;; whatever post-init necessary
   )
 
