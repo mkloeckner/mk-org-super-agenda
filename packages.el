@@ -29,7 +29,7 @@
 
 ;;; Code:
 
-(defconst mk-org-ql-packages
+(defconst mk-org-super-agenda-packages
   '(org-super-agenda)
   "The list of Lisp packages required by the mk-org-ql layer.
 
